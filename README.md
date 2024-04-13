@@ -5,10 +5,10 @@ this is a 2D unity wind themed game made for itch.io game jam
 
 
 ## TODO List
-- [ ] Player Controller
+- [x] Player Controller
   - [x] Mario Jump Mechanics
-  - [ ] Dash
-  - [ ] Particles for dash
+  - [x] Dash
+  - [x] Particles for dash
 - [ ] [Air zone](./Air-Zone.md)
 - [ ] [Geyser](./Geyser.md)
 - [ ] [Balloon](./Balloon.md)

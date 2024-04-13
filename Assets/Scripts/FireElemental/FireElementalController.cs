@@ -115,7 +115,7 @@ namespace FireElemental
             return hit2D;
         }
 
-        public static void Death()
+        public void Death()
         {
             throw new NotImplementedException();
         }
